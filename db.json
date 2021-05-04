@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "subject": "You've been reported",
+      "receivedAt": "2021-04-28 12:45",
+      "email": "robert@gmail.com",
+      "read": "Yes"
+    },
+    {
+      "id": 5,
+      "subject": "You have a new message!",
+      "receivedAt": "2021-04-30 12:45",
+      "email": "johnatan@gmail.com",
+      "read": "No"
+    },
+    {
+      "id": 6,
+      "subject": "Your details have been updated",
+      "receivedAt": "2021-04-28 12:45",
+      "email": "robert@gmail.com",
+      "read": "No"
+    },
+    {
+      "id": 8,
+      "subject": "You got rated!",
+      "receivedAt": "2021-04-30 12:45",
+      "email": "johnatan@gmail.com",
+      "read": "Yes"
+    },
+    {
+      "id": 9,
+      "subject": "Your details have been updated",
+      "receivedAt": "2021-04-30 12:45",
+      "email": "listen@gmail.com",
+      "read": "No"
+    },
+    {
+      "id": 10,
+      "subject": "Your details have been updated",
+      "receivedAt": "2021-04-30 12:45",
+      "email": "johnatan@gmail.com",
+      "read": "No"
+    },
+    {
+      "id": 11,
+      "subject": "Your details have been updated",
+      "receivedAt": "2021-04-28 12:45",
+      "email": "robert@gmail.com",
+      "read": "No"
+    },
+    {
+      "id": 12,
+      "subject": "You've been reported",
+      "receivedAt": "2021-04-14 12:45",
+      "email": "fabiola@gmail.com",
+      "read": "Yes"
+    },
+    {
+      "id": 13,
+      "subject": "Your details have been updated",
+      "receivedAt": "2021-04-30 12:45",
+      "email": "johnatan@gmail.com",
+      "read": "Yes"
+    },
+    {
+      "id": 14,
+      "subject": "Your details have been updated",
+      "receivedAt": "2021-04-30 12:45",
+      "email": "listen@gmail.com",
+      "read": "Yes"
+    },
+    {
+      "id": 13,
+      "subject": "Your details have been updated",
+      "email": "johnatan@gmail.com",
+      "read": "No",
+      "receivedAt": "2021-04-30 12:45"
+    },
+    {
+      "id": 15,
+      "subject": "Your details have been updated",
+      "receivedAt": "2021-04-28 12:45",
+      "email": "robert@gmail.com",
+      "read": "Yes"
+    }
+  ]
+}

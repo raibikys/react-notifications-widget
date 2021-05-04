@@ -1,0 +1,118 @@
+.rs-container,
+.rs-header {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.rs-sidenav-body {
+  font-size: 0.45rem;
+}
+
+a,
+i {
+  font-size: 0.8rem !important;
+}
+
+i {
+  &:hover {
+    transition: all 0.2s ease-out !important;
+
+    &:hover {
+      transform: scale(1.3);
+    }
+  }
+}
+
+.box {
+  margin: 1rem 0 1rem 0;
+  padding: 1rem;
+  background: $white;
+  border: 1px solid $border;
+}
+
+.heading {
+  font-size: 0.95rem;
+}
+
+.font-content {
+  font-size: 0.45rem;
+}
+
+.button {
+  color: white;
+}
+
+.rs-nav-item-content {
+  color: white !important;
+}
+
+.bg {
+  &--green {
+    background: #7bd694;
+    border-radius: 0.15rem;
+    padding: 0.2rem 0.4rem;
+    color: $white;
+    font-size: 0.7rem;
+    max-width: 35px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  &--red {
+    background: #d0796c;
+    border-radius: 0.15rem;
+    padding: 0.2rem 0.4rem;
+    color: $white;
+    font-size: 0.7rem;
+    max-width: 35px;
+    text-align: center;
+    font-weight: bold;
+  }
+}
+
+.side-nav {
+  &--cyan {
+    background: #64adde;
+  }
+
+  &--green {
+    background: #7bd694;
+  }
+
+  &--orange {
+    background: #f7c76f;
+  }
+
+  &--red {
+    background: #d0796c;
+  }
+
+  &--black {
+    background: #343b3f;
+  }
+
+  &--cyan,
+  &--green,
+  &--orange,
+  &--red {
+    margin-bottom: 0.5rem;
+  }
+}
+
+.text {
+  &--cyan {
+    color: #64adde;
+  }
+
+  &--green {
+    color: #7bd694;
+  }
+
+  &--orange {
+    color: #f7c76f;
+  }
+
+  &--red {
+    color: #d0796c;
+  }
+}

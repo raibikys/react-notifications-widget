@@ -11,3 +11,5 @@ This project uses own hosted API, so please:
 And run server on port 3001:
 
 ### `json-server --watch db.json --port 3001`
+
+![alt text](https://github.com/raibikys/notificationsWidge/master/public/widget.png?raw=true)

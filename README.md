@@ -14,20 +14,20 @@ This project uses own hosted API, so please:
 <ol start="2">
   <li>Enter project directory;</li>
   <hr>
-  <li>Write:</li>
+  <li>Execute:</li>
   
   ### `npm install`
   ### `npm install -g json-server --save`
 </ol>
 <hr>
 <ol start="4">
-  <li>Then write:</li>
+  <li>Then:</li>
   
    ### `npm start`
 </ol>
 <hr>
-<ol start="4">
-  <li>On different tab write:</li>
+<ol start="5">
+  <li>Open new terminal and execute api server:</li>
   
   ### `json-server --watch db.json --port 3001`
 </ol>

@@ -11,7 +11,6 @@ This project uses own hosted API, so please:
   ### `git clone https://github.com/raibikys/notificationsWidget.git`
   
 </ol>
-<hr>
 <ol start="2">
   <li>Enter project directory;</li>
   <hr>
@@ -22,11 +21,20 @@ This project uses own hosted API, so please:
 </ol>
 <hr>
 <ol start="4">
-  <li>On different tab run api server on port 3001:</li>
+  <li>Then write:</li>
+  
+   ### `npm start`
+</ol>
+<hr>
+<ol start="4">
+  <li>On different tab write:</li>
   
   ### `json-server --watch db.json --port 3001`
 </ol>
 <hr>
+
+That's it, open browser in localhost port which react hosted the app.
+API accessible via localhost:3001 port.
 
 
 

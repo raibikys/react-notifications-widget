@@ -8,7 +8,7 @@ This project uses own hosted API, so please:
 <ol>
   <li>Clone/download project files:</li>
   
-  ### `git clone https://github.com/raibikys/notificationsWidget.git`
+  ### `git clone https://github.com/raibikys/react-notifications-widget.git`
   
 </ol>
 <ol start="2">
